@@ -1,0 +1,102 @@
+body {
+    background-color: lightgray;
+    margin: 0 auto;
+}
+
+.big-blue-header {
+    height:250px;
+    width: 850px;
+    background-image: url(/assets/download\ \(1\).png);
+    background-size: auto;
+    margin: 0 auto;
+}
+
+.navbar {
+width: 850px;
+margin: 0 auto;
+height: 45px;
+background-color: white;
+}
+
+.profile-photo {
+    height: 130px;
+    width: 130px;
+    border: 1px solid black;
+    border-radius: 1.9%;
+    background-image: url(/assets/download.png);
+    background-size: 128px;
+    position: relative;
+    top: 150px;
+    left: 10px;
+}
+li {
+    list-style-type: none;;
+    float: left;
+    position: relative;
+    margin: 10px;
+    left: 660px;
+    top: -55px;
+}
+
+.timeline {
+    font-weight: bold;
+}
+
+.Page-Name {
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+    position: relative;
+    top: -150px;
+    left:315px;
+    margin: 0 auto;
+}
+
+.thieves-website {
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left:695px;
+    top: -150px;
+    margin: 0 auto;
+}
+
+.small-select-box {
+    background-color: cornflowerblue;
+    height: 1.5px;
+    width: 60px;
+    position: relative;
+    left:711px;
+    top: -100px;
+}
+
+.left-col {
+    background-color: whitesmoke;
+    float: left;
+    width: 328px;
+    height: 1000px;
+    border: dotted .5px black;
+    position:relative;
+    left: 525px;
+}
+
+.right-col {
+    background-color: whitesmoke;
+    float: right;
+    width: 512px;
+    height: 1000px;
+    border: dotted .5px black;
+    position: relative;
+    right: 525px;
+}
+
+.inside-L-col h2 {
+    position: relative;
+    left: 10px;
+    font-weight: bold;
+}
+.inside-L-col p {
+    position: relative;
+    left: 10px;
+}
